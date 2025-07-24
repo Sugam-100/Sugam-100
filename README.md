@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Learning Power BI dashboards, R Programming, advanced Excel analytics, and statistical data analysis. Also strengthening skills in Pandas, Scikit-learn, and MySQL.**
 
-- 👨‍💻 All of my projects are available at [🔗 https://github.com/Sugam-100](🔗 https://github.com/Sugam-100)
+- 👨‍💻 All of my projects are available at 🔗 https://github.com/Sugam-100
 
 - 💬 Ask me about **React, Vue, GSAP, and also anything related to Data Analysis using Python/SQL.**
 
