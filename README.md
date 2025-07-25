@@ -12,14 +12,19 @@
 ### 🚀 Tech Stack
 
 <p align="center">
+
+ <!-- Data Science / ML -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" width="40" alt="Pandas" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" width="40" alt="Scikit-learn" />
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40" width="40" alt="Seaborn" /> 
+  
   <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" alt="HTML" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" alt="CSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="40" alt="TypeScript" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="40" alt="React" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" height="40" width="40" alt="Vue.js" />
-  <img src="https://bestofjs.org/logos/vuetify.svg" height="40" width="40" alt="Vuetify" />
+  
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" width="40" alt="Tailwind" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" height="40" width="40" alt="Bootstrap" />
 
@@ -36,11 +41,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" width="40" alt="MySQL" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="40" width="40" alt="MongoDB" />
 
-  <!-- Data Science / ML -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" width="40" alt="Pandas" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" width="40" alt="Scikit-learn" />
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40" width="40" alt="Seaborn" />
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="40" width="40" alt="TensorFlow" />
+  
+ 
 </p>
 
 
