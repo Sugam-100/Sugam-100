@@ -1,71 +1,24 @@
-# 👋 Hi! I'm Sugam Thakur — Aspiring Data Analyst from Gaya,Bihar, India
+<h1 align="center">Hi 👋, I'm Sugam Thakur</h1>
+<h3 align="center">A passionate Software Engineer from India</h3>
 
----
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw04fpvkI3avqu1MbDbkrg_L&ust=1760694139539000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKCR04q3qJADFQAAAAAdAAAAABAK">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sugam-100&show_icons=true&theme=radical" alt="Sugam's GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sugam-100&layout=compact&theme=radical" alt="Most Used Languages" height="165">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sugam-100&label=Profile%20views&color=0e75b6&style=flat" alt="sugam-100" /> </p>
+
+- 👨‍💻 All of my projects are available at [https://my-portfolio-two-henna-52.vercel.app/](https://my-portfolio-two-henna-52.vercel.app/)
+
+- 📫 How to reach me **sugamthakur5440@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/sugam-thakur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sugam-thakur" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
 
-### 🚀 Tech Stack
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sugam-100&show_icons=true&locale=en&layout=compact" alt="sugam-100" /></p>
 
-<p align="center">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sugam-100&show_icons=true&locale=en" alt="sugam-100" /></p>
 
- <!-- Data Science / ML -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" width="40" alt="Pandas" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" width="40" alt="Scikit-learn" />
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40" width="40" alt="Seaborn" /> 
-  
-  <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" alt="HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" alt="CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="JavaScript" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="40" alt="React" />
-  
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" width="40" alt="Tailwind" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" height="40" width="40" alt="Bootstrap" />
-
-  <!-- Backend / Server-side -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="40" width="40" alt="Node.js" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" height="40" width="40" alt="Express.js" />
-
-  <!-- Programming Languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" width="40" alt="C" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40" width="40" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="Python" />
-
-  <!-- Database / Data -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" width="40" alt="MySQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="40" width="40" alt="MongoDB" />
-
-  
- 
-</p>
-
-
----
-
-### 📫 Connect with Me
-
-<p align="center">
-
-  <a href="mailto:sugamthakur5440@gmail.com"><img src="https://img.shields.io/badge/GMAIL-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/sugam-thakur-991254328/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
----
-
-### 🧠 About Me
-
-- 🎓 I'm currently pursuing BSc-IT at CIMAGE College.
-- 🔍 Passionate about **Data Science, Analytics, and Visualization**.
-- 📊 Skilled in **Python, SQL, Excel, Power BI, R, Pandas, Scikit-learn**, and more.
-- 💡 I work on ML projects like **Diabetes Prediction**, **Fraud Detection**, and **Customer Churn**.
-- ⚡ Fun fact: I love debugging and turning raw data into smart insights!
-
----
-
-📂 Check all my projects here: [GitHub Portfolio](https://github.com/Sugam-100)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sugam-100&" alt="sugam-100" /></p>
