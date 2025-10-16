@@ -1,3 +1,4 @@
+![logo](https://github.com/Sugam-100/Sugam-100/blob/main/Github%20banner.png)
 <h1 align="center">Hi 👋, I'm Sugam Thakur</h1>
 <h3 align="center">A passionate Software Engineer from Patna, Bihar</h3>
 
@@ -22,4 +23,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sugam-100&show_icons=true&locale=en" alt="sugam-100" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sugam-100&" alt="sugam-100" /></p>
